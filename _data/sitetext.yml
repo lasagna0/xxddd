@@ -9,7 +9,7 @@
 
 # English (default)
 # -----------------
-en: &DEFAULT_EN
+es: &DEFAULT_ES
   header:
     title: Bienvenido a Rossetta (Beta 1.1)!
     text: Repositorio de informacion y eventos de Probarranquilla
