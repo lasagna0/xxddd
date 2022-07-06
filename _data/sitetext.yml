@@ -11,31 +11,33 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    title: Bienvenido a Rossetta (Beta 1.1)!
+    text: Repositorio de informacion y eventos de Probarranquilla
+    button: Ingresar a Rossetta
     buttonlink: "#services"
 
-  services:
-    title: "Services"
-    text: "Lorem ipsum"
-    section: services
-    list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
-
+  
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Novedades"
+    text: "Se un PRO!."
     section: portfolio
     closebutton: "Close Project"
+    
+  services:
+    title: "El alma de Rossetta"
+    text: "Rossetta incluye los servicios de pandora y mas"
+    section: services
+    list:
+      - title: "Pagina de inicio"
+        desc: "Se un Pro! Al ingresar a Rossetta obtendras todos los datos de eventos en su menu interactivo."
+        icon: fas fa-laptop #find more at https://fontawesome.com/icons
+      - title: "Acceso simple"
+        desc: "Buscas documentos? Accede de inmediato al repositorio"
+        icon: fa-solid fa-boxes-packing
+      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+        desc: "Al soportarse con el lenguaje Markdown, obtenemos un diseño mas limpio y con muchas mas posibilidades"
+        icon: fab fa-markdown
+
 
   timeline:
     title: "Timeline"
