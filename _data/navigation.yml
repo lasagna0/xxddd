@@ -21,10 +21,10 @@ en: &DEFAULT_EN
       section: timeline
     - title: "Team"
       section: team
-    - title: "Contact"
+    - title: "Dato de la semana"
       section: contact
-    - title: "Theme Source"
-      url: https://github.com/raviriley/agency-jekyll-theme/
+    - title: "Pagina oficial de ProBaq"
+      url: probarranquilla.org
 en-US:
   <<: *DEFAULT_EN
 en-CA:
